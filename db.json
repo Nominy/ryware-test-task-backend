@@ -9,6 +9,76 @@
       },
       "status": true,
       "usages": 27
+    },
+    "03589b0c-a178-4c44-abec-b2f6f31a6cd6": {
+      "address": {
+        "street": "Lustdorfska Doroha, 33",
+        "city": "Odesa",
+        "state": "meow",
+        "zip": "65016"
+      },
+      "status": false,
+      "usages": 5
+    },
+    "e3f95840-66f2-4a6a-822d-14e2d1ae5345": {
+      "address": {
+        "street": "Lustdorfska Doroha, 33",
+        "city": "Odesa",
+        "state": "sd",
+        "zip": "65016"
+      },
+      "status": true,
+      "usages": 0
+    },
+    "bb81ec00-a5cd-4273-a3c0-12a574addefb": {
+      "address": {
+        "street": "Lustdorfska Doroha, 33",
+        "city": "Odesa",
+        "state": "sd",
+        "zip": "65016"
+      },
+      "status": true,
+      "usages": 0
+    },
+    "f452900f-18b8-4493-b699-9962461b86a8": {
+      "address": {
+        "street": "Lustdorfska Doroha, 33",
+        "city": "Odesa",
+        "state": "sd",
+        "zip": "65016"
+      },
+      "status": true,
+      "usages": 0
+    },
+    "fb068337-7866-461c-8aa3-566bf5e47e95": {
+      "address": {
+        "street": "Lustdorfska Doroha, 33",
+        "city": "Odesa",
+        "state": "sd",
+        "zip": "65016"
+      },
+      "status": true,
+      "usages": 0
+    },
+    "3b940ccc-d631-4aab-8534-bcfd3b02476d": {
+      "address": {
+        "street": "Lustdorfska Doroha, 33",
+        "city": "Odesa",
+        "state": "sd",
+        "zip": "65016"
+      },
+      "status": true,
+      "usages": 2
+    },
+    "b165bf53-8080-484a-82da-2ab6ce207f18": {
+      "address": {
+        "street": "1",
+        "city": "odessa",
+        "state": "Одеська область",
+        "zip": "65016"
+      },
+      "status": false,
+      "usages": 0
     }
   }
 }

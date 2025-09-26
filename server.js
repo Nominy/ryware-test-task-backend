@@ -105,7 +105,7 @@ app.put("/parkings/status/:id", (req, res) => {
   }
 
   const parking = db.data.parkings[req.params.id];
-  parking.status = !parking.status;
+  parking.status = req.body.status;
   db.write();
   res.json(parking);
 });
