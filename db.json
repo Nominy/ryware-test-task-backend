@@ -1,34 +1,14 @@
 {
   "parkings": {
-    "1": {
-        "address": {
-            "street": "123 Main St",
-            "city": "Anytown",
-            "state": "CA",
-            "zip": "12345"
-        },
-        "status": true,
-        "usages": 0
-    },
-    "2": {
-        "address": {
-            "street": "456 Main St",
-            "city": "Anytown",
-            "state": "CA",
-            "zip": "12345"
-        },
-        "status": true,
-        "usages": 0
-    },
-    "3": {
-        "address": {
-            "street": "789 Main St",
-            "city": "Anytown",
-            "state": "CA",
-            "zip": "12345"
-        },
-        "status": true,
-        "usages": 0
+    "5d803331-cf62-4980-8576-16ba6714cfe7": {
+      "address": {
+        "street": "Lustdorfska Doroha, 33",
+        "city": "Odesa",
+        "state": "sd",
+        "zip": "65016"
+      },
+      "status": true,
+      "usages": 27
     }
   }
 }
